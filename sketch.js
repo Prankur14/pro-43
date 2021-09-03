@@ -126,7 +126,7 @@ function draw() {
         image(memeImage, memeX, height / 2 + 100);
 
     }
-    if (memeX > -75) {
+    if (memeX > -95) {
         window.location.reload();
     }
 
