@@ -73,10 +73,10 @@ function draw() {
             spacecraft.y += 5
         }
 
-        if (mouseIsPressed) {
-            spacecraft.x = mouseX;
-            spacecraft.y = mouseY;
-        }
+//         if (mouseIsPressed) {
+//             spacecraft.x = mouseX;
+//             spacecraft.y = mouseY;
+//         }
         // document.getElementById()
 
 
